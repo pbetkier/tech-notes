@@ -1,4 +1,4 @@
-# Test-Driven Development By Example (Kent Beck)
+# Test-Driven Development By Example - Kent Beck
 
 ## What is TDD
 
