@@ -1,4 +1,4 @@
-# JVM profiling - Jakub Kubryński, Michał Warecki
+# JVM profiling - Jakub Kubryński, Michał Warecki (Warsjawa 2013)
 
 ## Introduction
 
